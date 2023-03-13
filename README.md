@@ -11,7 +11,7 @@ The techstack used in this pipeline
 •	AWS : LAMBDA, S3, Glue, Redshift
 
 
-Pipeline: Gmail API ---->Lambda---------->S3------------> AWS GLUE(transformation of Data)-------->S3----->Redshift
+Pipeline: Gmail API ---->Lambda------>S3------> AWS GLUE(transformation of Data)------>S3----->Redshift
 
 
 
